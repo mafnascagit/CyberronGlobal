@@ -7,7 +7,7 @@ npm run build
 
 cd .. 
 
-mv cyberron-official/build build 
+cp cyberron-official/build build 
 
 git add . 
 git commit -m "updating production environment"
