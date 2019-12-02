@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CyberronOfficial/static/css/main.0fba1dc1.chunk.css",
+    "main.js": "/CyberronOfficial/static/js/main.cd23d9c4.chunk.js",
+    "main.js.map": "/CyberronOfficial/static/js/main.cd23d9c4.chunk.js.map",
+    "runtime-main.js": "/CyberronOfficial/static/js/runtime-main.82d7ebe6.js",
+    "runtime-main.js.map": "/CyberronOfficial/static/js/runtime-main.82d7ebe6.js.map",
+    "static/css/2.64a99b10.chunk.css": "/CyberronOfficial/static/css/2.64a99b10.chunk.css",
+    "static/js/2.c3ad26b4.chunk.js": "/CyberronOfficial/static/js/2.c3ad26b4.chunk.js",
+    "static/js/2.c3ad26b4.chunk.js.map": "/CyberronOfficial/static/js/2.c3ad26b4.chunk.js.map",
+    "index.html": "/CyberronOfficial/index.html",
+    "precache-manifest.ce879ed1bb696fb96bfe3416882d8c41.js": "/CyberronOfficial/precache-manifest.ce879ed1bb696fb96bfe3416882d8c41.js",
+    "service-worker.js": "/CyberronOfficial/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/CyberronOfficial/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.0fba1dc1.chunk.css.map": "/CyberronOfficial/static/css/main.0fba1dc1.chunk.css.map",
+    "static/media/style.css": "/CyberronOfficial/static/media/unsplash.4f8f060f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82d7ebe6.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.c3ad26b4.chunk.js",
+    "static/css/main.0fba1dc1.chunk.css",
+    "static/js/main.cd23d9c4.chunk.js"
+  ]
+}
