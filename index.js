@@ -7,9 +7,9 @@ server.listen(PORT_NUMBER, () => {
     console.log(`Server is running on port ${PORT_NUMBER}`)
 })
 
-server.use(express.static('cyberron-official/build'));
+server.use(express.static('build'));
 server.get('*', (req, res) => {
-res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
+res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
 });
 
 server.get("/express_backend", (req, res) => {
